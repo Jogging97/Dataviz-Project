@@ -19,7 +19,7 @@ The following tasks and questions will drive the visualization and interaction d
 1st Sketch is trying to show the distribution about the shootings
 
 ![微信图片_20200928114605](https://user-images.githubusercontent.com/49541914/94454808-56490600-0180-11eb-89ee-53556f14173c.jpg)
-2nd Sketch is trying to show the shooting numbers with respect to the age 
+2nd Sketch is trying to show the shooting numbers with respect to the age <br/>
 3rd Sketch is trying to show the plotbox about age and race  
 
 ##
