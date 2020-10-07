@@ -25,5 +25,5 @@ The following tasks and questions will drive the visualization and interaction d
 ## Schedule of Deliverables
 * Find some correlation between race and shootings. Estimated delivery date: 10/14/2020
 * Interaction geo map distribution along with different states. Estimated delivery date: 10/28/2020 
-* Explore some new visualization such as # box plot. Estimated delivery date: 11/04/2020 
+* Explore some new visualization such as box plot. Estimated delivery date: 11/04/2020 
 * Critique and summary the final project. Estimated delivery date: 11/11/2020
