@@ -27,3 +27,6 @@ The following tasks and questions will drive the visualization and interaction d
 * Interaction geo map distribution along with different states. Estimated delivery date: 10/28/2020 
 * Explore some new visualization such as box plot. Estimated delivery date: 11/04/2020 
 * Critique and summary the final project. Estimated delivery date: 11/11/2020
+
+## Project Processing
+* Racism? All Lives Matter!
