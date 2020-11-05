@@ -30,5 +30,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Visualizations
 * [Racism? All Lives Matter!](https://vizhub.com/Jogging97/fb6b037ada0c4f11a091505b35289632?file=index.html)
+Recently, we have seen many cases with police killed black people inappropriately. So I tried to show the correlation between race and number of shootings.
+From this chart we could see that the top 3 races are 'White', 'Black' and 'Hispanic'. Also the total number of shooting with 'White' people is almost two times than 'Black'. I think I may draw a conclusion that the racism may not so obvious but this data is recorded since 2015. Howeve, the racism may raise recently, we need to dive deeper to get more information before conclude that.
 ![process1](https://user-images.githubusercontent.com/49541914/96059872-05622e80-0e5d-11eb-95e4-3d66e49618e8.png)
 
