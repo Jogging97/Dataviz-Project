@@ -28,7 +28,7 @@ The following tasks and questions will drive the visualization and interaction d
 * Explore some new visualization such as box plot. Estimated delivery date: 11/04/2020 
 * Critique and summary the final project. Estimated delivery date: 11/11/2020
 
-## Project Processing
+## Visualizations
 * [Racism? All Lives Matter!](https://vizhub.com/Jogging97/fb6b037ada0c4f11a091505b35289632?file=index.html)
 ![process1](https://user-images.githubusercontent.com/49541914/96059872-05622e80-0e5d-11eb-95e4-3d66e49618e8.png)
 
