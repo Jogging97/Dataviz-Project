@@ -29,10 +29,11 @@ The following tasks and questions will drive the visualization and interaction d
 ## Visualizations
 
 * [Armed equipments along with Age](https://vizhub.com/Jogging97/b7238fc38b86402099a5cef8d1bdfa97)
-![prototype1](https://user-images.githubusercontent.com/49541914/94445765-d5850c80-0175-11eb-88bc-f6e98c58e9c2.png)
-</br>
+
 This bar chart visualization shows the total number of shooting distribution along with different age.
 From this chart we could draw a conclusion that no matter how old people are, the most possible reason that got shoot is because they carried guns. This make sense because guns are really threat polices life and they possibly defend if they found you carried guns
+![prototype1](https://user-images.githubusercontent.com/49541914/94445765-d5850c80-0175-11eb-88bc-f6e98c58e9c2.png)
+</br>
 
 
 * [Racism? All Lives Matter!](https://vizhub.com/Jogging97/fb6b037ada0c4f11a091505b35289632?file=index.html)
