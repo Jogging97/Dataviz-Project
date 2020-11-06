@@ -45,7 +45,14 @@ From this chart we could see that the top 3 races are 'White', 'Black' and 'Hisp
 
 * [Distribution on Map](https://vizhub.com/Jogging97/94d95c6c9aa9494aba809e62cd9e0c7f)
 
+
+
 ![map1](https://user-images.githubusercontent.com/49541914/98373306-0e35c280-200d-11eb-925b-e60948e3d2d9.png)
 
 ![map2](https://user-images.githubusercontent.com/49541914/98373538-6240a700-200d-11eb-968b-9d2496b1cef7.png)
+
+
+## Future work
+* Add legend and more interaction in map
+* Mimic the election result map to show the visualization 
 
