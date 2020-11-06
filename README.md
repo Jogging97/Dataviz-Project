@@ -28,7 +28,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Visualizations
 
-* Armed equipments along with Age
+* [Armed equipments along with Age](https://vizhub.com/Jogging97/b7238fc38b86402099a5cef8d1bdfa97)
 ![prototype1](https://user-images.githubusercontent.com/49541914/94445765-d5850c80-0175-11eb-88bc-f6e98c58e9c2.png)
 </br>
 
@@ -39,7 +39,7 @@ From this chart we could see that the top 3 races are 'White', 'Black' and 'Hisp
 ![process1](https://user-images.githubusercontent.com/49541914/96059872-05622e80-0e5d-11eb-95e4-3d66e49618e8.png)
 
 </br>
-* Distribution on Map
+* [Distribution on Map](https://vizhub.com/Jogging97/94d95c6c9aa9494aba809e62cd9e0c7f)
 
 ![map1](https://user-images.githubusercontent.com/49541914/98373306-0e35c280-200d-11eb-925b-e60948e3d2d9.png)
 
