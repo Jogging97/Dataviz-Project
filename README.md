@@ -38,7 +38,7 @@ The following tasks and questions will drive the visualization and interaction d
 From this chart we could see that the top 3 races are 'White', 'Black' and 'Hispanic'. Also the total number of shooting with 'White' people is almost two times than 'Black'. I think I may draw a conclusion that the racism may not so obvious but this data is recorded since 2015. Howeve, the racism may raise recently, we need to dive deeper to get more information before conclude that.
 ![process1](https://user-images.githubusercontent.com/49541914/96059872-05622e80-0e5d-11eb-95e4-3d66e49618e8.png)
 
-</br>
+
 * [Distribution on Map](https://vizhub.com/Jogging97/94d95c6c9aa9494aba809e62cd9e0c7f)
 
 ![map1](https://user-images.githubusercontent.com/49541914/98373306-0e35c280-200d-11eb-925b-e60948e3d2d9.png)
