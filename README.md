@@ -36,5 +36,6 @@ From this chart we could see that the top 3 races are 'White', 'Black' and 'Hisp
 
 </br>
 * Distribution on Map
+
 ![map1](https://user-images.githubusercontent.com/49541914/98373306-0e35c280-200d-11eb-925b-e60948e3d2d9.png)
 
