@@ -31,6 +31,8 @@ The following tasks and questions will drive the visualization and interaction d
 * Armed equipments along with Age
 ![prototype1](https://user-images.githubusercontent.com/49541914/94445765-d5850c80-0175-11eb-88bc-f6e98c58e9c2.png)
 </br>
+
+
 * [Racism? All Lives Matter!](https://vizhub.com/Jogging97/fb6b037ada0c4f11a091505b35289632?file=index.html)
 </br>Recently, we have seen many cases with police killed black people inappropriately. So I tried to show the correlation between race and number of shootings.
 From this chart we could see that the top 3 races are 'White', 'Black' and 'Hispanic'. Also the total number of shooting with 'White' people is almost two times than 'Black'. I think I may draw a conclusion that the racism may not so obvious but this data is recorded since 2015. Howeve, the racism may raise recently, we need to dive deeper to get more information before conclude that.
